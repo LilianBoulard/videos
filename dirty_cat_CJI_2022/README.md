@@ -11,4 +11,4 @@ Code used to create the video [dirty_cat : a Python package for Machine Learning
 
 Please credit my work if you want to re-use some animations !
 
-Files in the `asset` folder might contain copyrighted material.
+Files in the `assets` folder might contain copyrighted material.
